@@ -43,6 +43,7 @@ export default {
   display: flex;
   flex-wrap:wrap;
   min-height: 100px;
+  height: 100%;
   outline:#000 solid 1px;
 }
 .formItem{
